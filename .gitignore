@@ -1,2 +1,3 @@
 # ignore persistence.xml
 */META-INF/*
+src/main/java/META-INF/persistence.xml
